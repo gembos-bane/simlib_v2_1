@@ -1,0 +1,52 @@
+<package_installation_info>
+  <name>LCC</name>
+<packageid>6C7534B3-A4C6-489E-997C-FA34954CFC23</packageid> 
+ <version>10.0.0.354</version>
+ <packagetype>zip</packagetype>
+  <target_location>/LCC/</target_location>
+<assets_size>23668882</assets_size>
+  <package_upgrade_info>  
+
+<old_packageid>D0AD16A4-0C08-4B5C-A095-27312A01E2FF</old_packageid>
+<old_packageid>DC6478AD-8362-41B0-9335-5DF386F1E438</old_packageid>
+<old_packageid>E6266B31-0709-427D-9D0D-E88B80EDB540</old_packageid>
+<old_packageid>267CBA97-383F-4F40-B3C2-BF9E52663A0D</old_packageid>
+<old_packageid>BB3D0CDF-F334-4A54-873D-33CA550F689D</old_packageid>
+<old_packageid>A62A2D21-64F4-43EC-A56A-4D505D6AC834</old_packageid>
+<old_packageid>E3301538-7E2D-4245-8DA7-5229ACCE5476</old_packageid>
+<old_packageid>55BAC313-DD6B-447E-8035-90CFA1718648</old_packageid>
+<old_packageid>DAEA4F54-AD83-4C35-BDE2-38A73A96F84A</old_packageid>
+<old_packageid>A9D73689-DD62-4BD0-85D7-036DCF169006</old_packageid>
+<old_packageid>0F07735B-D3A8-42DB-8B5F-4C189379F691</old_packageid>
+<old_packageid>18D55ADC-101A-41AA-9FD5-DF9D7B574FD2</old_packageid>
+<old_packageid>A085FF8B-387C-4933-89C7-654BD440D1AF</old_packageid>
+<old_packageid>25075735-EC05-4460-824E-DFDCFAE23571</old_packageid>
+<old_packageid>779DDC13-E8F0-4A83-A8D4-7B19803F1767</old_packageid>
+<old_packageid>94F88E07-233C-4230-B7B3-8DD569CC6B71</old_packageid>
+<old_packageid>B2857AF6-788C-4984-91D9-73945B831EA3</old_packageid>
+<old_packageid>A64C93A7-E845-491D-97B6-E888EB145366</old_packageid>
+<old_packageid>D3CB0F7A-3245-4C60-8856-DACC39FECB8D</old_packageid>
+<old_packageid>A708D4C4-715A-43C7-8C1F-DC3FB2A4A0F8</old_packageid>
+<old_packageid>9C55A90C-B3D4-4C38-80D6-50677897B241</old_packageid>
+<old_packageid>16729F2E-1E33-4FF2-8209-6D71402782C5</old_packageid>
+<old_packageid>6F01C383-C85C-48E5-8A14-7CF668BAF702</old_packageid>
+<old_packageid>A61E8D49-055B-4496-BE31-9FD712B38CB3</old_packageid>
+<old_packageid>04F5AD82-EB0C-4395-A1D7-749334B12665</old_packageid>
+<old_packageid>BE407153-867D-4319-A527-A9D059D78551</old_packageid>
+<old_packageid>4AA84F22-90A9-4386-AA05-33E04E793241</old_packageid>
+<old_packageid>3F5FC3DC-9440-4504-A5F3-D7321CC7AB16</old_packageid>
+<old_packageid>C51FDC86-16C2-49AC-9D57-D02B689D12EE</old_packageid>
+<old_packageid>A18A1E6A-BED5-4584-999A-31FB15AEB3BF</old_packageid>
+<old_packageid>EF4E67A9-BE35-4B17-B639-C1F6BEDF12BC</old_packageid>
+<old_packageid>88A8EC18-6826-4C6A-BA9D-BD4B47A326FE</old_packageid>
+<old_packageid>CEF880B7-8387-4483-9BF4-4BE28553D0C0</old_packageid>
+<old_packageid>785C4FC2-33FF-47DA-9E44-1F4E460EC4BD</old_packageid>
+<old_packageid>C7F42E4C-31C8-4584-B445-430668CE5F4B</old_packageid>
+<old_packageid>D6106538-798D-4C32-AA69-AB28D3CF6E9B</old_packageid>
+<old_packageid>570D3400-2CC6-451B-AA5D-84CC4317A9B6</old_packageid>
+<old_packageid>731435B4-268C-4CF3-8D52-9EAA545225D0</old_packageid>
+<old_packageid>CB53C772-701A-4D56-97CF-1794A3759C2F</old_packageid>
+<old_packageid>BE507BBB-81D1-4B2C-B7E6-44DDFD78C820</old_packageid>
+<old_packageid>7AA8767F-133C-493D-B344-04F158F75E40</old_packageid>
+<old_packageid>BEFFD6A4-4093-46F5-809B-E4070023D218</old_packageid>
+<old_packageid
